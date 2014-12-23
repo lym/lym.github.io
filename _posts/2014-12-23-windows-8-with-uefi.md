@@ -45,10 +45,11 @@ prompt by hitting SHIFT F10. At the prompt you enter the following commands.
 Refresh the disks in the GUI area and be on your way. 
 
 hints from:
-[Super User](http://superuser.com/questions/515891/how-to-reformat-hd-from-gpt-partitions-to-ntfs-partitions-for-windows-7-install)
-[Computer Hope](http://www.computerhope.com/issues/ch000192.htm)
-[msdn](http://msdn.microsoft.com/en-us/library/windows/hardware/dn640535(v=vs.85).aspx)
-[GPT wikipedia wiki](http://en.wikipedia.org/wiki/GUID_Partition_Table)
-[How to geek](http://www.howtogeek.com/193669/whats-the-difference-between-gpt-and-mbr-when-partitioning-a-drive/)
+
+- [Super User](http://superuser.com/questions/515891/how-to-reformat-hd-from-gpt-partitions-to-ntfs-partitions-for-windows-7-install)
+- [Computer Hope](http://www.computerhope.com/issues/ch000192.htm)
+- [msdn](http://msdn.microsoft.com/en-us/library/windows/hardware/dn640535(v=vs.85).aspx)
+- [GPT wikipedia wiki](http://en.wikipedia.org/wiki/GUID_Partition_Table)
+- [How to geek](http://www.howtogeek.com/193669/whats-the-difference-between-gpt-and-mbr-when-partitioning-a-drive/)
 
 And prior filesystem nerdery ;-)
