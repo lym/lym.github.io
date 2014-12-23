@@ -7,7 +7,7 @@ tagline: Welcome to my corner of the Internet
 
 Blogging is not really my forte so this is my attempt at taking baby steps
 
-## Place holder for index of entries
+#### index of entries
 
 <ul class="posts">
   {% for post in site.posts %}
